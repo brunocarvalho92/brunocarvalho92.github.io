@@ -1,0 +1,32 @@
+/* Adicionando css ao portifólio*/
+
+body {
+    background-color: #C0C0C0;
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button {
+    background-color: #2B0504;
+    color: #BADEFC;
+    border-radius: 4px;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+.nome {
+    font-weight: 100;
+    font-family: cursive;
+}
+
+.informacoes {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-style: oblique;
+}
+
+.picture {
+    border-radius: 100px;
+}
